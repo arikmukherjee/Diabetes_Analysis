@@ -118,15 +118,15 @@ weighted avg       0.69      0.69      0.69       154
 ## 🧑‍💻 Author
 
 **Arik Mukherjee**  
-👨‍🎓 B.Sc. Computer Science Student '25 | M.Sc. Computer Science Student '27 | 
+👨‍🎓 B.Sc. Computer Science'25 | M.Sc. Computer Science'27 | 
 📧 Feel free to connect <a href="https://github.com/arikmukherjee">Arik Mukherjee</a> or suggest improvements!
 
 **Kishan Chandra Ghosh**  
-👨‍🎓 B.Sc. Computer Science Student '25 | M.Sc. Computer Science Student '27 | 
+👨‍🎓 B.Sc. Computer Science'25 | M.Sc. Computer Science'27 | 
 📧 Feel free to connect <a href="https://github.com/KishanChandraGhosh">Kishan Chandra Ghosh</a> or suggest improvements!
 
 **Simerjeet Singh Bedi**  
-👨‍🎓 B.Sc. Computer Science Student '25 |
+👨‍🎓 B.Sc. Computer Science'25 |
 📧 Feel free to connect <a href="https://github.com/Simerjeetsingh">Simerjeet Singh Bedi</a> or suggest improvements! 
 
 
