@@ -1,14 +1,22 @@
 # Diabetes_Analysis
 It is a Machine Learning project for Data Analytics &amp; GenAI internship , that is being done under Aunwesha Academy.
 
-#Confusion Matrix
+<center>
+<h3>Confusion Matrix</h3>
 <img src="confusion_matrix.png">
+</center>
 
-#Compare Actual VS Predicted Outcomes
+<center>
+<h3>Compare Actual VS Predicted Outcomes</h3>
 <img src="compare_outcomes.png">
+</center>
 
-#Feature Analysis
+<center>
+<h3>Feature Analysis</h3>
 <img src="features.png">
+</center>
 
-#Model Accuracy
+<center>
+<h3>Model Accuracy</h3>
 <img src="model_accuracy.png">
+</center>
