@@ -119,7 +119,7 @@ weighted avg       0.69      0.69      0.69       154
 
 **Arik Mukherjee**  
 👨‍🎓 B.Sc. Computer Science Student '25 | M.Sc. Computer Science Student '27 | 
-📧 Feel free to connect or suggest improvements!
+📧 Feel free to connect <a href="https://github.com/arikmukherjee">Arik Mukherjee</a> or suggest improvements!
 
 **Kishan Chandra Ghosh**  
 👨‍🎓 B.Sc. Computer Science Student '25 | M.Sc. Computer Science Student '27 | 
